@@ -23,7 +23,7 @@ sales-data-analysis/
 ├── data/                 # Raw and cleaned datasets (CSV)
 ├── notebooks/            # Jupyter/Colab notebooks with code and visualizations
 ├── images/               # Exported charts/graphs
-├── report/               # Final report (PDF)
+├── report                # Final report (PDF)
 ├── README.md             # Project documentation
 └── requirements.txt      # List of required packages
 ```
