@@ -59,40 +59,30 @@ Limitations
    ```bash
    git clone https://github.com/DuncanMainya/Sales-data-analysis-.git
    cd sales-data-analysis
-````
+```
 
 2. Create a virtual environment (optional but recommended):
-
-   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
 
 3. Install requirements:
-
-   ```bash
    pip install -r requirements.txt
-   ```
 
 4. Run the Jupyter/Colab notebook or check the exported report in `/report`.
 
----
 
-## 📌 Future Work
+Future Work
+ Add SQL queries for deeper analysis.
+ Integrate dashboards using tools like Plotly, Dash, or Streamlit.
+ Expand analysis to include customer segmentation and regional sales breakdown.
 
-* Add SQL queries for deeper analysis.
-* Integrate dashboards using tools like **Plotly**, **Dash**, or **Streamlit**.
-* Expand analysis to include **customer segmentation** and **regional sales breakdown**.
 
----
+Author
+Duncan Mainya.
 
-## 🧠 Author
 
-* **Duncan Mainya**.
 
----
-
-## 🗃️ License
+License
 
 This project is licensed under the [MIT License](LICENSE).
 
